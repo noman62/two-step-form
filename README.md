@@ -4,7 +4,7 @@
 ### 1.Open a terminal/command prompt.
 ### 2.Navigate to the directory where you want to store your React app.
 ### 3.Clone the repository by running the following command
-###  git clone https://github.com/noman62/two-step-form
+###  git clone https://github.com/noman62/two-step-form.git
 
 ## Step 2: Install Dependencies
 ### 1.Navigate into the project's root directory using the terminal/command prompt
